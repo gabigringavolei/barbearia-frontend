@@ -1,0 +1,49 @@
+p {
+                    color: rgb(120, 118, 228);
+                    text-align: center;
+                    font-size: 18px;
+                    font-style: italic;
+
+}
+h1 {
+                    text-align: center;
+                    font-weight: bold;
+                    background-color:aqua;
+                    text-align: center;  
+}
+h2{  
+                    text-align: center;
+                    background-color: aqua;
+
+}
+.imagemacademia {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    margin-top: 50px;
+                    max-width: 500px;
+                
+}
+.imagembarbearia {
+                    display: inline-block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    max-width: 500px;
+}
+
+body {
+    background-color:rgb(255, 255, 255);
+    
+}
+
+.listas {
+
+   display: inline-block;
+   vertical-align: top;
+   margin-right: 150px;
+
+}
+
+ol {
+    display: inline-block;
+}
