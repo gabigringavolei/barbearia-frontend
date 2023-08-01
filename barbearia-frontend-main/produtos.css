@@ -5,7 +5,7 @@
 }
 
 header {
-    background: #f786c8;
+    background: #e994c5;
 }
 
 .caixa {
@@ -27,7 +27,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     font-size: 28px;
     text-decoration: none;
@@ -57,7 +57,7 @@ nav a {
  }
 
  .produtos li:hover {
-    border-color: #fa0694;
+    border-color: #77e0e4;
     cursor: pointer;
     font-size: 40px;
  }
